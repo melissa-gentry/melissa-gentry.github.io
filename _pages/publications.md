@@ -24,7 +24,7 @@ We examine both vertical and horizontal tax competition over time by studying th
 
 
 ### "Can High School Counselors Help the Economics Pipeline?" 
-with Danila Serra and Jonathan Meer. (Forthcoming in AEA: Papers and Proceedings)
+with Danila Serra and Jonathan Meer. Forthcoming in AEA: Papers and Proceedings
 
 
 ### "More Complete Income: An Update" 
