@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter/MelissaDGentry
+  username               : &twitter"/MelissaDGentry"
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Melissa Gentry"
-  avatar           : "IMG_9408_Facetune_19-10-2021-16-34-03.jpeg"
+  avatar           : "headshot from Fed.jpg"
   bio              : "2nd-year Economics PhD Student at Texas A&M University"
   location         : "College Station, TX"
   employer         :
