@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I'm a second year PhD student in economics at Texas A&M with research interests in industrial organization and public economics. Before coming to TAMU, I received my undergraduate degree in economics from Millsaps College in Jackson, MS. While at Millsaps, I was a research assistant for Dr. Alex Rice in the mathematics department and worked for members of the Mississippi Congressional delegation and several state legislators. 
+Hello! I'm a second year PhD student in economics at Texas A&M University with interests in public and labor economics, with a focus on education. Prior to starting my PhD, I received a Bachelor's of Science in Quantitative Economics and Econometrics at University of South Florida, a Master's of Arts in Economics and a Certificate in Applied Statistics at University of South Carolina. I have also worked as a Research Assistant for Dr. Jeffrey Thompson at the Federal Reserve Bank of Boston in the New England Public Policy Center.
 
 My publications, working papers, and academic experience can be found in the tabs above. 
