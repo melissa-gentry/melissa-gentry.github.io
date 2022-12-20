@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Olivia Edwards"
+title                    : "Melissa Gentry"
 title_separator          : "-"
-name                     : &name "Olivia Edwards"
-description              : &description "2nd year Economics PhD student at Texas A&M"
+name                     : &name "Melissa Gentry"
+description              : &description "2nd-year Economics PhD student at Texas A&M University"
 url                      : https://oliviafrances-edwards.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "oliviafrances-edwards/oliviafrances-edwards.github.io"
+repository               : "melissa-gentry/melissa-gentry.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter/MelissaDGentry
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Olivia Edwards"
+  name             : "Melissa Gentry"
   avatar           : "IMG_9408_Facetune_19-10-2021-16-34-03.jpeg"
-  bio              : "2nd year Economics PhD Student at Texas A&M"
+  bio              : "2nd-year Economics PhD Student at Texas A&M University"
   location         : "College Station, TX"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=s_O5AsMAAAAJ"
-  email            : "olivia.edwards@tamu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=NTGLEFIAAAAJ&hl=en"
+  email            : "mdgentry@tamu.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -101,8 +101,8 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/olivia-edwards1/"
-  orcid            : "http://orcid.org/0000-0003-0999-3195"
+  linkedin         : "https://www.linkedin.com/in/mdgentry/"
+  orcid            : "https://orcid.org/0000-0002-5517-7888"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -175,7 +175,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
