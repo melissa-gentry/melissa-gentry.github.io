@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Melissa Gentry"
-  avatar           : "headshot from Fed.jpg"
+  avatar           : 
   bio              : "2nd-year Economics PhD Student at Texas A&M University"
   location         : "College Station, TX"
   employer         :
