@@ -4,23 +4,24 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### "Sets in Rd determining k taxicab distances"
-Involve vol. 13 (2020), no. 3, 487-509.
+### "Agricultural Aid and Agricultural Production in Africa"
+Journal of African Development, 2020
 
-Vajresh Balaji, Olivia Edwards, Anne Marie Loftin, Solomon Mcharo, Lo Phillips, Alex Rice, Bineyam Tsegaye
+With Kwabena Gyimah-Brempong
 
-We address an analog of a problem introduced by Erdős and Fishburn, itself an inverse formulation of the famous Erdős distance problem, in which the usual Euclidean distance is replaced with the metric induced by the l 1-norm, commonly referred to as the taxicab metric. Specifically, we investigate the following question: given d, k ∈ N, what is the maximum size of a subset of R d that determines at most k distinct taxicab distances, and can all such optimal arrangements be classified? We completely resolve the question in dimension d= 2, as well as the k= 1 case in dimension d= 3, and we also provide a full resolution in the general case under an additional hypothesis. [Download paper here](http://oliviafrances-edwards.github.io/files/sets_in_rd_determining_k_taxicab_distances.pdf)
-
-
-### "Lattice Configurations Determining Few Distances"
-INTEGERS vol. 20 (2020), Paper A86.
-
-Vajresh Balaji, Olivia Edwards, Anne Marie Loftin, Solomon Mcharo, Lo Phillips, Alex Rice, Bineyam Tsegaye
-
-We begin by revisiting a paper of Erdős and Fishburn, which posed the following question: given k ∈ N, what is the maximum number of points in a plane that determine at most k distinct distances, and can such optimal configurations be classified? We rigorously verify claims made in remarks in that paper, including the fact that the vertices of a regular polygon, with or without an additional point at the center, cannot form an optimal configuration for any k ≥ 7. Further, we investigate configurations in both triangular and rectangular lattices studied by Erdős and Fishburn. We collect a large amount of data related to these and other configurations, some of which correct errors in the original paper, and we use that data and additional analysis to provide explanations and make conjectures. [Download paper here](http://oliviafrances-edwards.github.io/files/lattice_configurations_determining_few_distances.pdf)
+This paper uses panel data and a dynamic common correlated effect
+estimator to investigate the effects of non-food agricultural aid on agricultural output in African countries during the 1970 to 2018 period. Using five measures of agricultural outputs in per capita terms and controlling for a number of covariates, we find that non-food agricultural aid, at the aggregate level, has positive and statistically significant short- and long-term effects on agricultural output in African countries. Using disaggregated aid data, we also find that several components of non-food agricultural aid have significant positive effects on agricultural output in Africa, while some components of non-food agricultural aid have no significant effect on agricultural output, suggesting that the composition of the aid matters for aid effectiveness. The results are robust to several specifications and different estimation methodologies including estimators that account for cross-sectional dependence. The results of this paper have implications on aid policy and research. [Download paper here](http://melissa-gentry.github.io/files/Kwabena jafrideve_21_2_139.pdf)
 
 
 
 # Working Papers
 
 I am currently working on topics related to the minimum wage and school choice markets.
+
+
+### "Dynamic Sales Tax Competition: Evidence at the Border"
+Federal Reserve Bank of Boston Working Paper Series, 2020
+
+With Nadia Greenhalgh-Stanley, Shawn Rohlin, Jeffrey Thompson
+
+We examine both vertical and horizontal tax competition over time by studying the strategic response of county sales taxation to state sales taxes and to cross-border neighboring municipalities’ combined (state and county) taxes. Using county and state sales tax data from 2003 through 2009, we employ both static and dynamic panel analysis as well as an instrumental variables approach in combination with a border analysis. Our results confirm the presence of tax competition in the cross section, as previous studies have found. Results from the fixedeffects and dynamic panel analysis also indicate the presence of vertical competition, though quite small, as counties are consistently responsive to changes in their own state sales tax level across all models and specifications. However, the panel findings suggest little to no horizontal tax competition. Following Parchet (2019), we address additional concerns about endogeneity by instrumenting the neighboring-county sales tax rate with the state-level sales tax rate of the neighboring state. Results from instrumental variables analysis reinforce the presence of a small vertical tax competition between local and state sales tax policies. Interestingly, our results, like those of Parchet (2019), indicate that cross-border local sales tax rates act as strategic substitutes. [Download paper here](http://melissa-gentry.github.io/files/Sales Tax Competition.pdf)
