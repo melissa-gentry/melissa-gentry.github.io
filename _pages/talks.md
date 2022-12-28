@@ -5,10 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
-### The Impact of Price and Prestige on SLAC Admission Yields
-Academy of Business Research; Biloxi, MS 2020 (impacted by COVID)
+### The Effect of Agricultural Aid on Agricultural Production
+Conference in Honor of Professor Kwabena Gyimah-Brempong, Tampa, Florida, March 2016
+(Early version of published paper)
 
-Olivia Edwards and Blakely Fender
+This paper uses panel data and a dynamic common correlated effect estimator to investigate the effects of non-food agricultural aid on agricultural output in African countries during the 1970 to 2014 period. Using five measures of agricultural outputs in per capita terms and controlling for a number of covariates, we find that non-food agricultural aid, at the aggregate level, has positive and statistically significant short- and long-term effects on agricultural output in African countries. Using disaggregated aid data, we also find that several components of non-food agricultural aid have significant positive effects on agricultural output in Africa, while some components of non-food agricultural aid have no significant effect on agricultural output, suggesting that the composition of the aid matters for aid effectiveness. The results are robust to several specifications and different estimation methodologies including estimators that account for cross-sectional dependence. The results of this paper have implications on aid policy and research.
 
 
-We investigate the effect of changes in tuition-pricing strategies employed by small liberal arts colleges (SLACs) on admissions yields. The two most common pricing strategies involve the differences between sticker-price tuition and actual cost of attendance for a student. Some colleges have moved towards a tuition model where they have lowered the posted tuition to the average cost of attendance for students and rarely discount tuition by granting aid. Other colleges have maintained the more traditional tuition model where posted tuition is quite high, but it is regularly discounted to students on an individual basis through aid. Using a standard DiD framework, we find no impact on admissions yield. When stratifying the sample on the prestige of the college, as determined by popular college ranking companies, we find there is still no impact for prestigious SLACs but less prestigious SLACs see a weakly significant increase in yield.
+# Workshops
+### Best Practices for Data Analysis
+Workshop for Undergraduate Thesis Students in Economics 
+
+I led a workshop that reviewed best practices for data cleaning, project management, and Stata basics. 
+
