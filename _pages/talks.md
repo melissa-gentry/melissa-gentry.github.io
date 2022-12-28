@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-
+# Presentations
 ### The Effect of Agricultural Aid on Agricultural Production
 Conference in Honor of Professor Kwabena Gyimah-Brempong, Tampa, Florida, March 2016
 (Early version of published paper)
