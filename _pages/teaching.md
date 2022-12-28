@@ -5,9 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Teaching Assistant for ECON 202: Principles of Microeconomics
-Dr. Jonathan Meer; Spring 2022 - Spring 2023
+#Tutoring
+Undergraduate Intermediate Price Theory Tutor, University of South Florida, 2016-2017
 
-Texas A&M Department of Economics
-
-Introductory microeconomics class that is a requirement for many majors. In the three semesters I have been a TA for this class, we have had over 3,300 students enrolled. This course is administered mainly online, with many in-person opportunities and events for students.
+Undergradate Tutoring Lab Tutor, Texas A&M University, Fall 2022
