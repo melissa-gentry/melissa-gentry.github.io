@@ -26,8 +26,9 @@ We examine both vertical and horizontal tax competition over time by studying th
 ### "Can High School Counselors Help the Economics Pipeline?" 
 with Danila Serra and Jonathan Meer. Forthcoming in AEA: Papers and Proceedings
 
+High school guidance counselors play an important role in advising high school students on their study and career paths. However, the literature on their characteristics, attitudes and behaviors – including the information they have and share with students on different majors – is scarce. We evaluate the impact of an intervention aimed at informing high school guidance counselors about the field of economics, i.e., what it is, what kind of jobs and wages the major leads to, and what kind of students would do great with it. Our study population is a set of over 200 high schools in Texas that send a high number of students to Texas A&M University. We randomly selected half of the schools to receive an invitation to participate in an informational workshop held by the Department of Economics at Texas A&M University in early September 2019. About 20 percent of the invited schools sent a guidance counselor to the informational workshop. Our outcome variables are measures of students’ interest in the field of economics when applying to and enrolling at Texas A&M University, with a particular focus on women and under-represented minority students.
 
-### "More Complete Income: An Update" 
+### "How a More Complete Accounting of Resources Helps us Understand Income Inequality" 
 with Timothy Smeeding and Jeffrey Thompson.
 
 
