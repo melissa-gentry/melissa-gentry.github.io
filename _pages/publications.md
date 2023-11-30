@@ -12,11 +12,11 @@ estimator to investigate the effects of non-food agricultural aid on agricultura
 
 
 ### "Can High School Counselors Help the Economics Pipeline?" 
-with Danila Serra and Jonathan Meer. Forthcoming in AEA: Papers and Proceedings (May 2023)
+with Danila Serra and Jonathan Meer. AEA: Papers and Proceedings (May 2023)
 
 High school guidance counselors play an important role in advising high school students on their study and career paths. However, the literature on their characteristics, attitudes and behaviors – including the information they have and share with students on different majors – is scarce. We evaluate the impact of an intervention aimed at informing high school guidance counselors about the field of economics, i.e., what it is, what kind of jobs and wages the major leads to, and what kind of students would do great with it. Our study population is a set of over 200 high schools in Texas that send a high number of students to Texas A&M University. We randomly selected half of the schools to receive an invitation to participate in an informational workshop held by the Department of Economics at Texas A&M University in early September 2019. About 20 percent of the invited schools sent a guidance counselor to the informational workshop. Our outcome variables are measures of students’ interest in the field of economics when applying to and enrolling at Texas A&M University, with a particular focus on women and under-represented minority students.
 
-# Working Papers
+# Working Papers and Works in Progress
 
 I am currently working on topics related to education policy and long run effects of policy interventions.
 
@@ -26,7 +26,8 @@ Federal Reserve Bank of Boston Working Paper Series, 2020 with Nadia Greenhalgh-
 We examine both vertical and horizontal tax competition over time by studying the strategic response of county sales taxation to state sales taxes and to cross-border neighboring municipalities’ combined (state and county) taxes. Using county and state sales tax data from 2003 through 2009, we employ both static and dynamic panel analysis as well as an instrumental variables approach in combination with a border analysis. Our results confirm the presence of tax competition in the cross section, as previous studies have found. Results from the fixedeffects and dynamic panel analysis also indicate the presence of vertical competition, though quite small, as counties are consistently responsive to changes in their own state sales tax level across all models and specifications. However, the panel findings suggest little to no horizontal tax competition. Following Parchet (2019), we address additional concerns about endogeneity by instrumenting the neighboring-county sales tax rate with the state-level sales tax rate of the neighboring state. Results from instrumental variables analysis reinforce the presence of a small vertical tax competition between local and state sales tax policies. Interestingly, our results, like those of Parchet (2019), indicate that cross-border local sales tax rates act as strategic substitutes. [Download paper here](http://melissa-gentry.github.io/files/SalesTaxCompetition.pdf)
 
 ### "Going the Distance: The Impact of Accessible Transportation on Disability Employment"
-When accessible transportation services are available, what happens to disabled residents’ employment opportunities? While many people with disabilities are unable to or uninterested in work, there are still many of prime age who are in the labor force and they face unemployment rates that are nearly double those of non-disabled individuals. Many surveys cite access to transportation as an important barrier to employment for these individuals. With access to public transportation being granted as a guaranteed right in the Americans with Disabilities Act, paratransit programs like dial-a-ride became more common across the United States. I intend to measure the effect of a new dial-a-ride program on disability employment, labor force participation, and wages in the areas served by the policy. Access to disability- friendly transportation may allow individuals to find jobs who were previously out of the labor force or unemployed, but it could also be that expanded access creates an opportunity to find higher quality jobs (or higher wage jobs).
+
+Transportation is a well-established barrier to employment for individuals with disabilities, but access to public transportation is a guaranteed right under the Americans with Disabilities Act. Paratransit programs exist nationwide to help improve transportation access for both the elderly and people with disabilities, but do these programs improve employment and labor force outcomes for prime-age disabled people? I intend to measure the effect of a new acessible transportation program on disability employment, labor force participation, incomes, and public assistance reciept in the areas served by the policy. 
 
 ### "Evaluating the Effects of Parental Preferences for Special Education" 
 with Olivia Edwards
@@ -38,5 +39,5 @@ Employing an oversubscribed lottery-IV identification strategy, we examine the e
 with Timothy Smeeding and Jeffrey Thompson.
 
 
-### "What Matters for the Resilience of Rural Places" 
+### "The Resilience of Local Economies: What Helps Rural Communities and Small Towns Survive Economic Shocks?" 
 with Jeffrey Thompson.
