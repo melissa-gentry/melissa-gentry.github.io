@@ -18,12 +18,15 @@ High school guidance counselors play an important role in advising high school s
 
 # Working Papers and Works in Progress
 
-I am currently working on topics related to education, transportation, and long run effects of policy interventions.
+I am currently working on topics related to education, labor economics, and people with disabilities.
 
 
 ### "Going the Distance: The Impact of Accessible Transportation on Disability Employment"
 
-Transportation is a well-established barrier to employment for individuals with disabilities, but access to public transportation is a guaranteed right under the Americans with Disabilities Act. Paratransit programs exist nationwide to help improve transportation access for both the elderly and people with disabilities, but do these programs improve employment and labor force outcomes for prime-age disabled people? I intend to measure the effect of a new acessible transportation program on disability employment, labor force participation, incomes, and public assistance reciept in the areas served by the policy. 
+Transportation is a well-established barrier to employment for individuals with disabilities, but access to public transportation is a guaranteed right under the Americans with Disabilities Act. Paratransit programs exist nationwide to help improve transportation access for both the elderly and people with disabilities, but do these programs improve employment and labor force outcomes for prime-age disabled people? Using restricted access Census data, I intend to measure the effect of a new acessible transportation program on disability employment, labor force participation, incomes, and public assistance reciept in the areas served by the policy. 
+
+### "Driving Inclusion: The Impact of Uber on Quality of Life for People with Disabilities"
+In this project, I explore the impact of Uber's introduction on people with disabilities, focusing on its effects on various quality of life outcomes. Traditional paratransit systems, with their requirement for advance booking, can often limit the mobility and independence of individuals with disabilities. Employing a stacked difference-in-differences approach, my analysis reveals that Uber significantly enhances social connections, as evidenced by increased marriage rates. Additionally, I find a statistically and economically significant improvement in employment and labor force participation among young adults with disabilities, indicating that Uber's flexible transportation service significantly broadens their access to job opportunities. These findings highlight the potential of on-demand ride services to promote inclusivity and economic engagement for people with disabilities, despite being a more expensive option compared to conventional paratransit programs.
 
 ### "Evaluating the Effects of Parental Preferences for Special Education" 
 with Olivia Edwards
@@ -34,8 +37,6 @@ Employing an oversubscribed lottery-IV identification strategy, we examine the e
 Federal Reserve Bank of Boston Working Paper Series, 2020 with Nadia Greenhalgh-Stanley, Shawn Rohlin, Jeffrey Thompson
 
 We examine both vertical and horizontal tax competition over time by studying the strategic response of county sales taxation to state sales taxes and to cross-border neighboring municipalities’ combined (state and county) taxes. Using county and state sales tax data from 2003 through 2009, we employ both static and dynamic panel analysis as well as an instrumental variables approach in combination with a border analysis. Our results confirm the presence of tax competition in the cross section, as previous studies have found. Results from the fixedeffects and dynamic panel analysis also indicate the presence of vertical competition, though quite small, as counties are consistently responsive to changes in their own state sales tax level across all models and specifications. However, the panel findings suggest little to no horizontal tax competition. Following Parchet (2019), we address additional concerns about endogeneity by instrumenting the neighboring-county sales tax rate with the state-level sales tax rate of the neighboring state. Results from instrumental variables analysis reinforce the presence of a small vertical tax competition between local and state sales tax policies. Interestingly, our results, like those of Parchet (2019), indicate that cross-border local sales tax rates act as strategic substitutes. [Download paper here](http://melissa-gentry.github.io/files/SalesTaxCompetition.pdf)
-
-### "Driving Inclusion: The Impact of Uber on Disability Employment"
 
 ### "Minimum Wages and Disability Employment" 
 with Jonathan Meer and Jeffrey Clemens.
