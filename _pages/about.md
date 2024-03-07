@@ -12,4 +12,4 @@ Hello! I'm a third year PhD student in economics at Texas A&M University with in
 
 <br/><br/>
 
-My publications, working papers, and academic experience can be found in the tabs above. A PDF copy of my updated CV can be downloaded [here](melissa-gentry.github.io/files/Gentry_CV_030724.pdf). 
+My publications, working papers, and academic experience can be found in the tabs above. A PDF copy of my updated CV can be downloaded [here](files/Gentry_CV_030724.pdf). 
