@@ -22,7 +22,6 @@ I am currently working on topics related to education, labor economics, and peop
 
 
 ### "Going the Distance: The Impact of Accessible Transportation on Disability Employment"
-
 Transportation is a well-established barrier to employment for individuals with disabilities, but access to public transportation is a guaranteed right under the Americans with Disabilities Act. Paratransit programs exist nationwide to help improve transportation access for both the elderly and people with disabilities, but do these programs improve employment and labor force outcomes for prime-age disabled people? Using restricted access Census data, I intend to measure the effect of a new accessible transportation program on disability employment, labor force participation, incomes, and public assistance receipt in the areas served by the policy. 
 
 ### "Driving Inclusion: The Impact of Uber on Quality of Life for People with Disabilities"
@@ -35,6 +34,9 @@ We examine both vertical and horizontal tax competition over time by studying th
 
 ### "Minimum Wages and Disability Employment" 
 with Jonathan Meer and Jeffrey Clemens.
+
+### "Beyond the Text: Understanding Opt-Out, Dosage, and Response Disparities in an SMS Intervention"
+with Miranda Lambert, Kalena Cortes, and Brian Holzman
 
 ### "How a More Complete Accounting of Resources Helps us Understand Income Inequality" 
 with Timothy Smeeding and Jeffrey Thompson.
