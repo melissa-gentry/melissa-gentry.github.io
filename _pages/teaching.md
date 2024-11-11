@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 **Labor Economics (ECON 418) Instructor of Record, Texas A&M Unversity, Summer 2024, Course Evaluation: 4.8/5**
+
 Quote: *"She was very positive and engaging, I enjoyed her classes and felt like I learned a lot. I also really appreciated how many real world studies she taught us about, as I feel many econ courses do not go the extra mile to show students the most recent research being done."*
+
 Quote: *"Professor Gentry is so passionate about her teaching which made this class very fun."*
+
 
 **Hullabaloo U (Freshman Seminar) Instructor of Record, Texas A&M Unversity, Fall 2023, Course Evaluation: 4.2/5**
 
