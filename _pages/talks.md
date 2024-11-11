@@ -7,23 +7,25 @@ author_profile: true
 # Presentations
 ### The Effect of Agricultural Aid on Agricultural Production
 Conference in Honor of Professor Kwabena Gyimah-Brempong, Tampa, Florida, March 2016
-(Early version of published paper)
 
 ### Texas Applied Microeconomics Student Workshop
 Austin, Texas, March 2023
-Presented an early-stage proposal regarding the effect of accessible transportation on disability employment. 
 
 ### Southern Economic Association Annual Conference
 New Orleans, LA, November 2023
-Co-presented a working paper on rural economic resilience.  
 
 ### Association for Education Finance and Policy
 Baltimore, MD, March 2024
-Presented a paper on heterogeneous engagement in text message interventions.  
 
 ### Texas Applied Microeconomics Student Workshop
 Houston, Texas, April 2024
-Presented a paper on Uber's impact on quality of life for people with disabilities. 
+
+### 2024 STATA Texas Empirical Microeconomics Conference
+Dallas, Texas, November 2024
+
+### 2024 APPAM Fall Research Conference
+Washington DC, November 2024 
+
 
 # Workshops
 ### Best Practices for Data Analysis
