@@ -16,4 +16,4 @@ I am a 2024-25 NBER Retirement and Disability Research Consortium Pre-doctoral F
 
 <br/><br/>
 
-My publications, working papers, and academic experience can be found in the tabs above. A PDF copy of my updated CV can be downloaded [here](http://melissa-gentry.github.io/files/Gentry_CV_032924.pdf). 
+My publications, working papers, and academic experience can be found in the tabs above. A PDF copy of my updated CV can be downloaded [here](http://melissa-gentry.github.io/files/Gentry_CV_111124.pdf). 
