@@ -19,7 +19,7 @@ High school guidance counselors play an important role in advising high school s
 
 I am currently working on topics related to education, labor economics, and people with disabilities.
 
-### "Driving Inclusion: The Effect of Improved Transportation for People with Disabilities"
+### ["Driving Inclusion: The Effect of Improved Transportation for People with Disabilities"](http://melissa-gentry.github.io/files/Uber_and_Disability_123024.pdf)
 People with disabilities face substantial barriers to economic and social participation. I explore how the availability of reliable and flexible transportation, provided by Uber, influences key quality-of-life outcomes for people with disabilities. This additional transportation option may serve as "reliability insurance" in case other modes of transit fail. Using a stacked difference-in-differences approach, I find that the availability of reliable and flexible transportation leads to improvements in labor force engagement and reductions in public assistance dependency among disabled individuals. Additionally, improving access to flexible transportation improves social outcomes, as indicated by increased marriage rates. Comparing the reduction in public assistance with the cost of enhanced transportation options to users suggests that there may be efficiency gains from government intervention in this setting. 
 
 ### "Going the Distance: The Impact of Accessible Transportation on Disability Employment"
