@@ -25,13 +25,15 @@ People with disabilities face substantial barriers to economic and social partic
 ### "Going the Distance: The Impact of Accessible Transportation on Disability Employment"
 Transportation is a well-established barrier to employment for individuals with disabilities, but access to public transportation is a guaranteed right under the Americans with Disabilities Act. Paratransit programs exist nationwide to help improve transportation access for both the elderly and people with disabilities, but do these programs improve employment and labor force outcomes for prime-age disabled people? Using restricted access Census data, I intend to measure the effect of a new accessible transportation program on disability employment, labor force participation, incomes, and public assistance receipt in the areas served by the policy. 
 
+### "Divergent Paths: Differential Impacts of Minimum Wage Increases on Individuals with Disabilities" 
+with Jonathan Meer and Jeffrey Clemens.
+
+We analyze the differential effects of minimum wage increases on individuals with disabilities using data from the American Community Survey and leveraging state-level minimum wage variation during the 2010s. We find that large minimum wage increases significantly reduce employment and labor force participation for individuals of all working ages with severe disabilities. By contrast, we find no such effects for all but young individuals with either non-severe disabilities or no disabilities. These declines are accompanied by a downward shift in the wage distribution and an increase in public assistance receipt. Our findings highlight important heterogeneities in minimum wage impacts, raising concerns about labor market policies’ unintended consequences populations on the margins of the labor force.
+
 ### "Dynamic Sales Tax Competition: Evidence at the Border"
 Federal Reserve Bank of Boston Working Paper Series, 2020 with Nadia Greenhalgh-Stanley, Shawn Rohlin, Jeffrey Thompson. (pre-doctoral work)
 
 We examine both vertical and horizontal tax competition over time by studying the strategic response of county sales taxation to state sales taxes and to cross-border neighboring municipalities’ combined (state and county) taxes. Using county and state sales tax data from 2003 through 2009, we employ both static and dynamic panel analysis as well as an instrumental variables approach in combination with a border analysis. Our results confirm the presence of tax competition in the cross section, as previous studies have found. Results from the fixedeffects and dynamic panel analysis also indicate the presence of vertical competition, though quite small, as counties are consistently responsive to changes in their own state sales tax level across all models and specifications. However, the panel findings suggest little to no horizontal tax competition. Following Parchet (2019), we address additional concerns about endogeneity by instrumenting the neighboring-county sales tax rate with the state-level sales tax rate of the neighboring state. Results from instrumental variables analysis reinforce the presence of a small vertical tax competition between local and state sales tax policies. Interestingly, our results, like those of Parchet (2019), indicate that cross-border local sales tax rates act as strategic substitutes. [Download paper here](http://melissa-gentry.github.io/files/SalesTaxCompetition.pdf)
-
-### "Divergent Paths: Differential Impacts of Minimum Wage Increases on Individuals with Disabilities" 
-with Jonathan Meer and Jeffrey Clemens.
 
 ### "Beyond the Text: Understanding Opt-Out, Dosage, and Response Disparities in an SMS Intervention"
 with Miranda Lambert, Kalena Cortes, and Brian Holzman.
