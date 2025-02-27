@@ -40,8 +40,5 @@ We examine both vertical and horizontal tax competition over time by studying th
 ### "Beyond the Text: Understanding Opt-Out, Dosage, and Response Disparities in an SMS Intervention"
 with Miranda Lambert, Kalena Cortes, and Brian Holzman.
 
-### "How a More Complete Accounting of Resources Helps us Understand Income Inequality" 
-with Timothy Smeeding and Jeffrey Thompson. (pre-doctoral work)
-
 ### "The Resilience of Local Economies: What Helps Rural Communities and Small Towns Survive Economic Shocks?" 
 with Jeffrey Thompson. (pre-doctoral work)
