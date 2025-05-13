@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 ### ["Agricultural Aid and Agricultural Production in Africa"](http://melissa-gentry.github.io/files/jafrideve_21.pdf)
-Journal of African Development, 2020 With Kwabena Gyimah-Brempong (pre-doctoral work)
+*Journal of African Development (2020)* With Kwabena Gyimah-Brempong (pre-doctoral work)
 
 This paper uses panel data and a dynamic common correlated effect estimator to investigate the effects of non-food agricultural aid on agricultural output in African countries during the 1970 to 2018 period. Using five measures of agricultural outputs in per capita terms and controlling for a number of covariates, we find that non-food agricultural aid, at the aggregate level, has positive and statistically significant short- and long-term effects on agricultural output in African countries. Using disaggregated aid data, we also find that several components of non-food agricultural aid have significant positive effects on agricultural output in Africa, while some components of non-food agricultural aid have no significant effect on agricultural output, suggesting that the composition of the aid matters for aid effectiveness. The results are robust to several specifications and different estimation methodologies including estimators that account for cross-sectional dependence. The results of this paper have implications on aid policy and research.
 
 ### ["Can High School Counselors Help the Economics Pipeline?"](https://www.aeaweb.org/articles?id=10.1257/pandp.20231121)
-AEA: Papers and Proceedings (May 2023) with Danila Serra and Jonathan Meer. 
+*AEA: Papers and Proceedings (May 2023)* with Danila Serra and Jonathan Meer. 
 
 High school guidance counselors play an important role in advising high school students on their study and career paths. However, the literature on their characteristics, attitudes and behaviors – including the information they have and share with students on different majors – is scarce. We evaluate the impact of an intervention aimed at informing high school guidance counselors about the field of economics, i.e., what it is, what kind of jobs and wages the major leads to, and what kind of students would do great with it. Our study population is a set of over 200 high schools in Texas that send a high number of students to Texas A&M University. We randomly selected half of the schools to receive an invitation to participate in an informational workshop held by the Department of Economics at Texas A&M University in early September 2019. About 20 percent of the invited schools sent a guidance counselor to the informational workshop. Our outcome variables are measures of students’ interest in the field of economics when applying to and enrolling at Texas A&M University, with a particular focus on women and under-represented minority students.
 
@@ -19,11 +19,13 @@ High school guidance counselors play an important role in advising high school s
 I am currently working on topics related to education, labor economics, and people with disabilities.
 
 ### ["Driving Inclusion: The Effect of Improved Transportation for People with Disabilities"](http://melissa-gentry.github.io/files/Driving_Inclusion_Gentry_012725.pdf)
+*Revise and Resubmit*
+
 People with disabilities face substantial barriers to economic and social participation. I explore how the availability of reliable and flexible transportation, provided by Uber, influences key quality-of-life outcomes for people with disabilities. This additional transportation option may serve as "reliability insurance" in case other modes of transit fail. Using a stacked difference-in-differences approach, I find that the availability of reliable and flexible transportation leads to improvements in labor force engagement and reductions in public assistance dependency among disabled individuals. Additionally, improving access to flexible transportation improves social outcomes, as indicated by increased marriage rates. Comparing the reduction in public assistance with the cost of enhanced transportation options to users suggests that there may be efficiency gains from government intervention in this setting. 
 
 
 ### ["Divergent Paths: Differential Impacts of Minimum Wage Increases on Individuals with Disabilities"](https://www.nber.org/papers/w33437) 
-with Jonathan Meer and Jeffrey Clemens.
+*Accepted* with Jonathan Meer and Jeffrey Clemens.
 
 We analyze the differential effects of minimum wage increases on individuals with disabilities using data from the American Community Survey and leveraging state-level minimum wage variation during the 2010s. We find that large minimum wage increases significantly reduce employment and labor force participation for individuals of all working ages with severe disabilities. These declines are accompanied by a downward shift in the wage distribution and an increase in public assistance receipt. By contrast, we find no employment effects for all but young individuals with either non-severe disabilities or no disabilities. Our findings highlight important heterogeneities in minimum wage impacts, raising concerns about labor market policies’ unintended consequences for populations on the margins of the labor force.
 
