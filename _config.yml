@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Melissa Gentry"
 title_separator          : "-"
 name                     : &name "Melissa Gentry"
-description              : &description "Fourth year Economics PhD student at Texas A&M University"
+description              : &description "Fourth year Economics PhD candidate at Texas A&M University"
 url                      : https://melissa-gentry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "melissa-gentry/melissa-gentry.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Melissa Gentry"
   avatar           : "Gentry_Headshot.jpg"
-  bio              : "Fourth year Economics PhD Student at Texas A&M University"
+  bio              : "Fourth year Economics PhD Candidate at Texas A&M University"
   location         : "College Station, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=NTGLEFIAAAAJ&hl=en"
