@@ -4,28 +4,14 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-# Presentations
-### The Effect of Agricultural Aid on Agricultural Production
-Conference in Honor of Professor Kwabena Gyimah-Brempong, Tampa, Florida, March 2016
+# Conference Presentations
+2025: Eastern Economics Association, Allied Social Science Associations (ASSA), Home and Community Based Services Annual Conference
 
-### Texas Applied Microeconomics Student Workshop
-Austin, Texas, March 2023
+2024: Association for Education Finance and Policy (AEFP), Texas Applied Microeconomics Student Workshop, 2024 STATA Texas Empirical Microeconomics Conference, APPAM Fall Research Conference
 
-### Southern Economic Association Annual Conference
-New Orleans, LA, November 2023
+2023: Texas Applied Microeconomics Student Workshop, Southern Economic Association Annual Conference
 
-### Association for Education Finance and Policy
-Baltimore, MD, March 2024
-
-### Texas Applied Microeconomics Student Workshop
-Houston, Texas, April 2024
-
-### 2024 STATA Texas Empirical Microeconomics Conference
-Dallas, Texas, November 2024
-
-### 2024 APPAM Fall Research Conference
-Washington DC, November 2024 
-
+Pre-doctoral: Conference in Honor of Professor Kwabena Gyimah-Brempong (2016)
 
 # Workshops
 ### Best Practices for Data Analysis
@@ -33,3 +19,11 @@ Workshop for Undergraduate Thesis Students in Economics
 
 I led a workshop that reviewed best practices for data cleaning, project management, and Stata basics. 
 
+
+# Service
+### Referee Experience
+Journal of Health Economics, Journal of Public Economics, Educational Researcher, Economic Development Quarterly, Feminist Economics, Journal of Behavioral Public Administration
+
+### Other Professional Service
+
+Texas Applied Microeconomics Student (TEAMS) Workshop Coordinator (2025), Public-Labor-IO PhD Student Brown Bag Coordinator (2023-24), Economic Graduate Student Association 2nd Year Representative (2022-23), Economic Graduate Student Association 1st Year Representative (2021-22)
