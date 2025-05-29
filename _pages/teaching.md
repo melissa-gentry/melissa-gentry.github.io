@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+### Instructor of Record
 
 **Labor Economics (ECON 418) Instructor of Record, Texas A&M Unversity, Summer 2024, Course Evaluation: 4.8/5**
 
@@ -16,10 +17,20 @@ Quote: *"Professor Gentry is so passionate about her teaching which made this cl
 
 Quote: *"Melissa was so kind and welcoming to all of her students. She acted as a helping hand to anyone in her class and was willing to go out of her way to help us through our first semester at A&M. She truly cares about her students."*
 
+<br />
 
-<br/><br/>
+### Guest Lectures
+**Public Economics (ECON412), Texas A&M University, Spring 2025, Average student rating: 4.7/5**
 
-**Tutoring:**
+Two guest lectures on social insurance. 
+
+**Personnel Economics (ECON419), Texas A&M University, Spring 2025, Average student rating: 3.8/4**
+
+One guest lecture on disability topics. 
+
+<br />
+
+### Tutoring
 
 **Undergraduate Tutoring Lab Tutor, Texas A&M University, Fall 2022**
 
