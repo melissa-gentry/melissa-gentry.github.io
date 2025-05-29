@@ -16,7 +16,7 @@ I will be available on the 2025-26 job market.
 
 <br/><br/>
 
-My publications, working papers, and academic experience can be found in the tabs above. A PDF copy of my updated CV can be downloaded [here](http://melissa-gentry.github.io/files/Gentry_CV_111124.pdf). 
+My publications, working papers, and academic experience can be found in the tabs above. A PDF copy of my updated CV can be downloaded [here](http://melissa-gentry.github.io/files/Gentry_CV_052925.pdf). 
 
 <br/><br/>
 
