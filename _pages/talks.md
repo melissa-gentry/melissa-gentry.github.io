@@ -20,10 +20,3 @@ Workshop for Undergraduate Thesis Students in Economics
 I led a workshop that reviewed best practices for data cleaning, project management, and Stata basics. 
 
 
-# Service
-### Referee Experience
-Journal of Health Economics, Journal of Public Economics, Educational Researcher, Economic Development Quarterly, Feminist Economics, Journal of Behavioral Public Administration
-
-### Other Professional Service
-
-Texas Applied Microeconomics Student (TEAMS) Workshop Coordinator (2025), Public-Labor-IO PhD Student Brown Bag Coordinator (2023-24), Economic Graduate Student Association 2nd Year Representative (2022-23), Economic Graduate Student Association 1st Year Representative (2021-22)
