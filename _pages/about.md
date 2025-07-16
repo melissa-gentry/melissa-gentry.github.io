@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a fifth year economics PhD candidate at Texas A&M University with interests in public and labor economics, with a focus on disability and education. My research uses both RCTs and quasi-experimental methods. I was a 2024-25 NBER Retirement and Disability Research Consortium Pre-doctoral Fellow. 
+Hello! I'm a fifth year economics PhD candidate at Texas A&M University with interests in applied microeconomics, with a focus on disability and education. My research uses both RCTs and quasi-experimental methods. I was a 2024-25 NBER Retirement and Disability Research Consortium Pre-doctoral Fellow. 
 
 <br/><br/>
 
