@@ -17,6 +17,7 @@ We analyze the differential effects of minimum wage increases on individuals wit
 High school guidance counselors play an important role in advising high school students on their study and career paths. However, the literature on their characteristics, attitudes and behaviors – including the information they have and share with students on different majors – is scarce. We evaluate the impact of an intervention aimed at informing high school guidance counselors about the field of economics, i.e., what it is, what kind of jobs and wages the major leads to, and what kind of students would do great with it. Our study population is a set of over 200 high schools in Texas that send a high number of students to Texas A&M University. We randomly selected half of the schools to receive an invitation to participate in an informational workshop held by the Department of Economics at Texas A&M University in early September 2019. About 20 percent of the invited schools sent a guidance counselor to the informational workshop. Our outcome variables are measures of students’ interest in the field of economics when applying to and enrolling at Texas A&M University, with a particular focus on women and under-represented minority students.
 </details>
 
+<br />
 
 # Working Papers and Works in Progress
 
@@ -38,6 +39,7 @@ Transportation is a well-established barrier to employment for individuals with 
 Light-touch text message interventions continue to grow popular among researchers. However, little is known about how the content of these text messages may drive parental engagement with an intervention’s curriculum or how parents of various backgrounds may engage differentially with the content. Utilizing a large-scale SMS-based nudge intervention among middle school parents, we examine heterogeneity in the likelihood of parents opting out, their survey response rates, and the curriculum characteristics that influence opt-out behavior. We find that parents in the treatment group are more likely to opt out. However non-White parents, parents receiving Spanish language messages, and parents whose children receive free and reduced-price lunch are less likely to opt out overall. Our analysis of text curriculum features reveals that parents are more likely to opt out after receiving texts focused on emotional support, responsible decision-making, and warmth. Importantly, Spanish language text-recipients often exhibit curriculum characteristic preferences that differ from the rest of the sample. This paper highlights the importance of parent characteristics when designing and implementing text message interventions.
 </details>
 
+<br />
 
 # Pre-doctoral Work
 
