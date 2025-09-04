@@ -63,5 +63,9 @@ We examine both vertical and horizontal tax competition over time by studying th
 </details>
 
 “Who Are the 'Rich,' How Do We Identify Them, and How Are They Different from Everyone Else?” with Jeffrey Thompson. *Forthcoming at the Journal of Income Dynamics*
+<details>
+  <summary>Abstract</summary>
+In this article, we compare the distributions of income, wealth, and lifetime earnings, using a high-quality household survey with an oversample of high net worth households (the Survey of Consumer Finances) to identify points in the distribution where the very top separates from the rest. We explore the traits of the rich using each of these measures to understand if and how they differ. We then look further along the distribution to identify the social, demographic, and economic measures where the rich truly stand apart from the lower-resourced groups and where there is overlap with the rest of the distribution.
+</details>
 
 "The Resilience of Local Economies: What Helps Rural Communities and Small Towns Survive Economic Shocks?" with Jeffrey Thompson. 
