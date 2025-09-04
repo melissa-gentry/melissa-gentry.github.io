@@ -30,12 +30,6 @@ High school guidance counselors play an important role in advising high school s
 
 # Working Papers and Works in Progress
 
-["Driving Inclusion: The Effect of Improved Transportation for People with Disabilities"](http://melissa-gentry.github.io/files/Driving_Inclusion_Gentry.pdf) *Revise and Resubmit at Journal of Human Resources (JHR)*
-<details>
-  <summary>Abstract</summary>
-People with disabilities face substantial barriers to economic and social participation. I explore how the availability of reliable and flexible transportation, provided by Uber, influences key quality-of-life outcomes for people with disabilities. This additional transportation option may serve as "reliability insurance" in case other modes of transit fail. Using a stacked difference-in-differences approach, I find that the availability of reliable and flexible transportation leads to improvements in labor force engagement and reductions in public assistance dependency among disabled individuals. Additionally, improving access to flexible transportation improves social outcomes, as indicated by increased marriage rates. Comparing the reduction in public assistance with the cost of enhanced transportation options to users suggests that there may be efficiency gains from government intervention in this setting. 
-</details>
-
 "Going the Distance: The Contemporaneous and Intergenerational Effects of Accessible Transportation"
 <details>
   <summary>Abstract</summary>
@@ -47,6 +41,10 @@ Transportation is a well-established barrier to employment for individuals with 
   <summary>Abstract</summary>
 Light-touch text message interventions continue to grow popular among researchers. However, little is known about how the content of these text messages may drive parental engagement with an intervention’s curriculum or how parents of various backgrounds may engage differentially with the content. Utilizing a large-scale SMS-based nudge intervention among middle school parents, we examine heterogeneity in the likelihood of parents opting out, their survey response rates, and the curriculum characteristics that influence opt-out behavior. We find that parents in the treatment group are more likely to opt out. However non-White parents, parents receiving Spanish language messages, and parents whose children receive free and reduced-price lunch are less likely to opt out overall. Our analysis of text curriculum features reveals that parents are more likely to opt out after receiving texts focused on emotional support, responsible decision-making, and warmth. Importantly, Spanish language text-recipients often exhibit curriculum characteristic preferences that differ from the rest of the sample. This paper highlights the importance of parent characteristics when designing and implementing text message interventions.
 </details>
+
+"Remote Work and Employment at the Margins: Evidence from Older and Disabled Adults in the UK" with Ian Burn and Joanna Lahey
+
+"No Time Like the Present: The Effects of On-Demand Trips for Paratransit Customers on Rider Mobility, Well-being, and Health" with Michael Cassidy and Ludovica Gazze *(funded by JPAL)*
 
 <br />
 
@@ -63,5 +61,7 @@ This paper uses panel data and a dynamic common correlated effect estimator to i
   <summary>Abstract</summary>
 We examine both vertical and horizontal tax competition over time by studying the strategic response of county sales taxation to state sales taxes and to cross-border neighboring municipalities’ combined (state and county) taxes. Using county and state sales tax data from 2003 through 2009, we employ both static and dynamic panel analysis as well as an instrumental variables approach in combination with a border analysis. Our results confirm the presence of tax competition in the cross section, as previous studies have found. Results from the fixedeffects and dynamic panel analysis also indicate the presence of vertical competition, though quite small, as counties are consistently responsive to changes in their own state sales tax level across all models and specifications. However, the panel findings suggest little to no horizontal tax competition. Following Parchet (2019), we address additional concerns about endogeneity by instrumenting the neighboring-county sales tax rate with the state-level sales tax rate of the neighboring state. Results from instrumental variables analysis reinforce the presence of a small vertical tax competition between local and state sales tax policies. Interestingly, our results, like those of Parchet (2019), indicate that cross-border local sales tax rates act as strategic substitutes.
 </details>
+
+“Who Are the 'Rich,' How Do We Identify Them, and How Are They Different from Everyone Else?” with Jeffrey Thompson. *Forthcoming at the Journal of Income Dynamics*
 
 "The Resilience of Local Economies: What Helps Rural Communities and Small Towns Survive Economic Shocks?" with Jeffrey Thompson. 
