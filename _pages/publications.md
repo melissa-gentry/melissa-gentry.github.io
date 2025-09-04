@@ -1,10 +1,19 @@
 ---
 layout: archive
-title: "Publications"
+title: "Job Market Paper"
 permalink: /publications/
 author_profile: true
 ---
 
+["Driving Inclusion: The Effect of Improved Transportation for People with Disabilities"](http://melissa-gentry.github.io/files/Driving_Inclusion_Gentry.pdf) *Revise and Resubmit at Journal of Human Resources (JHR)*
+<details>
+  <summary>Abstract</summary>
+People with disabilities face substantial barriers to economic and social participation. I explore how the availability of reliable and flexible transportation, provided by Uber, influences key quality-of-life outcomes for people with disabilities. This additional transportation option may serve as "reliability insurance" in case other modes of transit fail. Using a stacked difference-in-differences approach, I find that the availability of reliable and flexible transportation leads to improvements in labor force engagement and reductions in public assistance dependency among disabled individuals. Additionally, improving access to flexible transportation improves social outcomes, as indicated by increased marriage rates. Comparing the reduction in public assistance with the cost of enhanced transportation options to users suggests that there may be efficiency gains from government intervention in this setting. 
+</details>
+
+<br />
+
+# Publications
 ["Divergent Paths: Differential Impacts of Minimum Wage Increases on Individuals with Disabilities"](https://www.nber.org/papers/w33437) with Jonathan Meer and Jeffrey Clemens. *Forthcoming at National Tax Journal* 
 <details>
   <summary>Abstract</summary>
