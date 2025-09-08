@@ -42,9 +42,12 @@ Transportation is a well-established barrier to employment for individuals with 
 Light-touch text message interventions continue to grow popular among researchers. However, little is known about how the content of these text messages may drive parental engagement with an intervention’s curriculum or how parents of various backgrounds may engage differentially with the content. Utilizing a large-scale SMS-based nudge intervention among middle school parents, we examine heterogeneity in the likelihood of parents opting out, their survey response rates, and the curriculum characteristics that influence opt-out behavior. We find that parents in the treatment group are more likely to opt out. However non-White parents, parents receiving Spanish language messages, and parents whose children receive free and reduced-price lunch are less likely to opt out overall. Our analysis of text curriculum features reveals that parents are more likely to opt out after receiving texts focused on emotional support, responsible decision-making, and warmth. Importantly, Spanish language text-recipients often exhibit curriculum characteristic preferences that differ from the rest of the sample. This paper highlights the importance of parent characteristics when designing and implementing text message interventions.
 </details>
 
-"Remote Work and Employment at the Margins: Evidence from Older and Disabled Adults in the UK" with Ian Burn and Joanna Lahey
-
 "No Time Like the Present: The Effects of On-Demand Trips for Paratransit Customers on Rider Mobility, Well-being, and Health" with Michael Cassidy and Ludovica Gazze *(funded by JPAL)*
+<details>
+  <summary>Abstract</summary>
+About a quarter of Americans with disabilities experience poverty. One contributing factor is a lack of physical mobility, which may limit access to health care, social relationships, and economic participation. Although the Americans with Disabilities Act requires public transit agencies to provide riders unable to use fixed-route transit with paratransit alternatives, paratransit users are generally required to book trips a day in advance, constraining flexibility. In this study, we will conduct a randomized controlled trial of King County Metro’s new Access On-Demand program, which allows paratransit users to book same-day trips. This is the first study to evaluate the effects of an on-demand transportation option on paratransit customers’ mobility, transportation security, health, and wellbeing. The research design, which will leverage administrative data complemented by surveys, is the product of a long collaboration between the research team and King County Metro and is informed by an non-experimental pilot.
+</details>
+"Remote Work and Employment at the Margins: Evidence from Older and Disabled Adults in the UK" with Ian Burn and Joanna Lahey
 
 <br />
 
