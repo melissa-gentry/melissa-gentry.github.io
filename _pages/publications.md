@@ -52,6 +52,11 @@ About a quarter of Americans with disabilities experience poverty. One contribut
 <br />
 
 # Pre-doctoral Work
+“Who Are the 'Rich,' How Do We Identify Them, and How Are They Different from Everyone Else?” with Jeffrey Thompson. *Forthcoming at the Journal of Income Dynamics*
+<details>
+  <summary>Abstract</summary>
+In this article, we compare the distributions of income, wealth, and lifetime earnings, using a high-quality household survey with an oversample of high net worth households (the Survey of Consumer Finances) to identify points in the distribution where the very top separates from the rest. We explore the traits of the rich using each of these measures to understand if and how they differ. We then look further along the distribution to identify the social, demographic, and economic measures where the rich truly stand apart from the lower-resourced groups and where there is overlap with the rest of the distribution.
+</details>
 
 ["Agricultural Aid and Agricultural Production in Africa"](http://melissa-gentry.github.io/files/jafrideve_21.pdf) with Kwabena Gyimah-Brempong *Journal of African Development (2020)* 
 <details>
@@ -63,12 +68,6 @@ This paper uses panel data and a dynamic common correlated effect estimator to i
 <details>
   <summary>Abstract</summary>
 We examine both vertical and horizontal tax competition over time by studying the strategic response of county sales taxation to state sales taxes and to cross-border neighboring municipalities’ combined (state and county) taxes. Using county and state sales tax data from 2003 through 2009, we employ both static and dynamic panel analysis as well as an instrumental variables approach in combination with a border analysis. Our results confirm the presence of tax competition in the cross section, as previous studies have found. Results from the fixedeffects and dynamic panel analysis also indicate the presence of vertical competition, though quite small, as counties are consistently responsive to changes in their own state sales tax level across all models and specifications. However, the panel findings suggest little to no horizontal tax competition. Following Parchet (2019), we address additional concerns about endogeneity by instrumenting the neighboring-county sales tax rate with the state-level sales tax rate of the neighboring state. Results from instrumental variables analysis reinforce the presence of a small vertical tax competition between local and state sales tax policies. Interestingly, our results, like those of Parchet (2019), indicate that cross-border local sales tax rates act as strategic substitutes.
-</details>
-
-“Who Are the 'Rich,' How Do We Identify Them, and How Are They Different from Everyone Else?” with Jeffrey Thompson. *Forthcoming at the Journal of Income Dynamics*
-<details>
-  <summary>Abstract</summary>
-In this article, we compare the distributions of income, wealth, and lifetime earnings, using a high-quality household survey with an oversample of high net worth households (the Survey of Consumer Finances) to identify points in the distribution where the very top separates from the rest. We explore the traits of the rich using each of these measures to understand if and how they differ. We then look further along the distribution to identify the social, demographic, and economic measures where the rich truly stand apart from the lower-resourced groups and where there is overlap with the rest of the distribution.
 </details>
 
 "The Resilience of Local Economies: What Helps Rural Communities and Small Towns Survive Economic Shocks?" with Jeffrey Thompson. 
