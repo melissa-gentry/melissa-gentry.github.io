@@ -14,6 +14,12 @@ People with disabilities face substantial barriers to economic and social partic
 <br />
 
 # Publications
+["Digital Incentives in Surveys: Response Rates and Sociodemographic Effects in a Large-Scale Parental Nudge Intervention"](https://osf.io/preprints/socarxiv/rtj4e_v1) with Miranda Lambert, Kalena Cortes, and Brian Holzman. *Forthcoming at AEA: Papers and Proceedings*
+<details>
+  <summary>Abstract</summary>
+Light-touch text message interventions continue to grow popular among researchers. However, little is known about how the content of these text messages may drive parental engagement with an intervention’s curriculum or how parents of various backgrounds may engage differentially with the content. Utilizing a large-scale SMS-based nudge intervention among middle school parents, we examine heterogeneity in the likelihood of parents opting out, their survey response rates, and the curriculum characteristics that influence opt-out behavior. We find that parents in the treatment group are more likely to opt out. However non-White parents, parents receiving Spanish language messages, and parents whose children receive free and reduced-price lunch are less likely to opt out overall. Our analysis of text curriculum features reveals that parents are more likely to opt out after receiving texts focused on emotional support, responsible decision-making, and warmth. Importantly, Spanish language text-recipients often exhibit curriculum characteristic preferences that differ from the rest of the sample. This paper highlights the importance of parent characteristics when designing and implementing text message interventions.
+</details>
+
 ["Divergent Paths: Differential Impacts of Minimum Wage Increases on Individuals with Disabilities"](https://www.nber.org/papers/w33437) with Jonathan Meer and Jeffrey Clemens. *Forthcoming at National Tax Journal* 
 <details>
   <summary>Abstract</summary>
@@ -36,11 +42,6 @@ High school guidance counselors play an important role in advising high school s
 Transportation is a well-established barrier to employment for individuals with disabilities even though access to public transportation is a guaranteed right under the Americans with Disabilities Act. Paratransit programs exist nationwide to provide accessible transportation for both the elderly and people with disabilities, but do these programs improve employment and labor force outcomes for prime-age disabled people? Using restricted decennial Census Data, my preliminary results find that these programs have slight positive impacts on employment outcomes for people with disabilities. As a placebo check, I show that paratransit has no impact on the employment outcomes of non-disabled adults who are unable to access this service. Following this contemporaneous analysis, I will explore how access to paratransit programs impacted the adult outcomes of children whose parents were disabled. 
 </details>
 
-["Digital Incentives in Surveys: Response Rates and Sociodemographic Effects in a Large-Scale Parental Nudge Intervention"](https://osf.io/preprints/socarxiv/rtj4e_v1) with Miranda Lambert, Kalena Cortes, and Brian Holzman.
-<details>
-  <summary>Abstract</summary>
-Light-touch text message interventions continue to grow popular among researchers. However, little is known about how the content of these text messages may drive parental engagement with an intervention’s curriculum or how parents of various backgrounds may engage differentially with the content. Utilizing a large-scale SMS-based nudge intervention among middle school parents, we examine heterogeneity in the likelihood of parents opting out, their survey response rates, and the curriculum characteristics that influence opt-out behavior. We find that parents in the treatment group are more likely to opt out. However non-White parents, parents receiving Spanish language messages, and parents whose children receive free and reduced-price lunch are less likely to opt out overall. Our analysis of text curriculum features reveals that parents are more likely to opt out after receiving texts focused on emotional support, responsible decision-making, and warmth. Importantly, Spanish language text-recipients often exhibit curriculum characteristic preferences that differ from the rest of the sample. This paper highlights the importance of parent characteristics when designing and implementing text message interventions.
-</details>
 
 "Beyond the Text: Understanding Opt-Out, Dosage, and Response Disparities in an SMS Intervention" with Miranda Lambert, Kalena Cortes, and Brian Holzman.
 <details>
