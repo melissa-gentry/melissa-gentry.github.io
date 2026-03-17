@@ -12,7 +12,7 @@ Hello! I'm a fifth year economics PhD candidate at Texas A&M University with int
 
 <br/><br/>
 
-I will be available on the 2025-26 job market. 
+In Fall 2026, I will be joining the University of South Florida Department of Economics as an Assistant Professor. 
 
 <br/><br/>
 
