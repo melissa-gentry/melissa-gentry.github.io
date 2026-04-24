@@ -1,17 +1,9 @@
 ---
 layout: archive
-title: "Job Market Paper"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-
-["Driving Inclusion: The Effect of Improved Transportation for People with Disabilities"](http://melissa-gentry.github.io/files/Driving_Inclusion_Gentry.pdf) *Revise and Resubmit at Journal of Human Resources (JHR)*
-<details>
-  <summary>Abstract</summary>
-People with disabilities face substantial barriers to economic and social participation. I explore the extent to which these barriers are overcome by the availability of reliable and flexible transportation, which may serve as ``reliability insurance'' in case other modes of transit fail. Leveraging the roll-out of Uber, I use a stacked difference-in-differences approach to show that the availability of reliable and flexible transportation leads to improvements in social and economic participation through increased marriage rates and labor force participation, and reduced reliance on public assistance. The reduction in public assistance outweighs expected rideshare costs, lending support to the recent push towards public-private partnerships in the transportation space. 
-</details>
-
-<br />
 
 # Publications
 ["Digital Incentives in Surveys: Response Rates and Sociodemographic Effects in a Large-Scale Parental Nudge Intervention"](https://osf.io/preprints/socarxiv/rtj4e_v1) with Miranda Lambert, Kalena Cortes, and Brian Holzman. *Forthcoming at AEA: Papers and Proceedings*
@@ -20,7 +12,7 @@ People with disabilities face substantial barriers to economic and social partic
 This study examines how digital incentives influence survey participation and engagement in a large randomized controlled trial of parents across seven Texas school districts. We test how incentive amount and information about vendor options affect response behavior and explore differences by language background. Incentivized parents were more likely to start and complete surveys and claim gift cards, though Spanish-speaking parents exhibited distinct patterns—greater completion rates but lower redemption rates, often selecting essential-goods vendors. Increasing incentive value and providing advance information both improved engagement. Findings inform the design of equitable, effective digital incentive strategies for diverse populations.
 </details>
 
-["Divergent Paths: Differential Impacts of Minimum Wage Increases on Individuals with Disabilities"](https://www.nber.org/papers/w33437) with Jonathan Meer and Jeffrey Clemens. *Forthcoming at National Tax Journal* 
+["Divergent Paths: Differential Impacts of Minimum Wage Increases on Individuals with Disabilities"](https://www.nber.org/papers/w33437) with Jonathan Meer and Jeffrey Clemens. *National Tax Journal (March 2026)* 
 <details>
   <summary>Abstract</summary>
 We analyze the differential effects of minimum wage increases on individuals with disabilities using data from the American Community Survey and leveraging state-level minimum wage variation during the 2010s. We find that large minimum wage increases significantly reduce employment and labor force participation for individuals of all working ages with severe disabilities. These declines are accompanied by a downward shift in the wage distribution and an increase in public assistance receipt. By contrast, we find no employment effects for all but young individuals with either non-severe disabilities or no disabilities. Our findings highlight important heterogeneities in minimum wage impacts, raising concerns about labor market policies’ unintended consequences for populations on the margins of the labor force.
@@ -35,6 +27,14 @@ High school guidance counselors play an important role in advising high school s
 <br />
 
 # Working Papers and Works in Progress
+
+["Driving Inclusion: The Effect of Improved Transportation for People with Disabilities"](http://melissa-gentry.github.io/files/Driving_Inclusion_Gentry.pdf) *Resubmitted at Journal of Human Resources (JHR)*
+<details>
+  <summary>Abstract</summary>
+People with disabilities face substantial barriers to economic and social participation. I explore the extent to which these barriers are overcome by the availability of reliable and flexible transportation, which may serve as ``reliability insurance'' in case other modes of transit fail. Leveraging the roll-out of Uber, I use a stacked difference-in-differences approach to show that the availability of reliable and flexible transportation leads to improvements in social and economic participation through increased marriage rates and labor force participation, and reduced reliance on public assistance. The reduction in public assistance outweighs expected rideshare costs, lending support to the recent push towards public-private partnerships in the transportation space. 
+</details>
+
+<br />
 
 "Going the Distance: The Contemporaneous and Intergenerational Effects of Accessible Transportation"
 <details>
@@ -59,7 +59,7 @@ About a quarter of Americans with disabilities experience poverty. One contribut
 <br />
 
 # Pre-doctoral Work
-“Lifetime Earnings, Income Or Wealth. How Alternative Resource Measures Affect The Location And Composition Of The Very Top Of The Distribution” with Jeffrey Thompson. *Forthcoming at the Journal of Income Distribution*
+“Lifetime Earnings, Income Or Wealth. How Alternative Resource Measures Affect The Location And Composition Of The Very Top Of The Distribution” with Jeffrey Thompson. *Journal of Income Distribution (April 2026)*
 <details>
   <summary>Abstract</summary>
 In this article, we compare the distributions of income, wealth, and lifetime earnings, using a high-quality household survey with an oversample of high net worth households (the Survey of Consumer Finances) to identify points in the distribution where the very top separates from the rest. We explore the traits of the rich using each of these measures to understand if and how they differ. We then look further along the distribution to identify the social, demographic, and economic measures where the rich truly stand apart from the lower-resourced groups and where there is overlap with the rest of the distribution.
