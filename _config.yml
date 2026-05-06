@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Melissa Gentry"
 title_separator          : "-"
 name                     : &name "Melissa Gentry"
-description              : &description "Fifth year Economics PhD candidate at Texas A&M University"
+description              : &description "Incoming Assistant Professor at University of South Florida"
 url                      : https://melissa-gentry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "melissa-gentry/melissa-gentry.github.io"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : ovbMhlCrvyOuxUs2tkCWQubmuwqcSVF4UZaxnHZjNE8
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
