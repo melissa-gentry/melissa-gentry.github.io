@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Publications
-["Digital Incentives in Surveys: Response Rates and Sociodemographic Effects in a Large-Scale Parental Nudge Intervention"](https://osf.io/preprints/socarxiv/rtj4e_v1) with Miranda Lambert, Kalena Cortes, and Brian Holzman. *Forthcoming at AEA: Papers and Proceedings*
+["Digital Incentives in Surveys: Response Rates and Sociodemographic Effects in a Large-Scale Parental Nudge Intervention"](https://osf.io/preprints/socarxiv/rtj4e_v1) with Miranda Lambert, Kalena Cortes, and Brian Holzman. *AEA: Papers and Proceedings (May 2026)*
 <details>
   <summary>Abstract</summary>
 This study examines how digital incentives influence survey participation and engagement in a large randomized controlled trial of parents across seven Texas school districts. We test how incentive amount and information about vendor options affect response behavior and explore differences by language background. Incentivized parents were more likely to start and complete surveys and claim gift cards, though Spanish-speaking parents exhibited distinct patterns—greater completion rates but lower redemption rates, often selecting essential-goods vendors. Increasing incentive value and providing advance information both improved engagement. Findings inform the design of equitable, effective digital incentive strategies for diverse populations.
@@ -28,13 +28,12 @@ High school guidance counselors play an important role in advising high school s
 
 # Working Papers and Works in Progress
 
-["Driving Inclusion: The Effect of Improved Transportation for People with Disabilities"](http://melissa-gentry.github.io/files/Driving_Inclusion_Gentry.pdf) *Resubmitted at Journal of Human Resources (JHR)*
+["Driving Inclusion: The Effect of Improved Transportation for People with Disabilities"](http://melissa-gentry.github.io/files/Driving_Inclusion_Gentry.pdf) *Second Round R&R at Journal of Human Resources (JHR)*
 <details>
   <summary>Abstract</summary>
 People with disabilities face substantial barriers to economic and social participation. I explore the extent to which these barriers are overcome by the availability of reliable and flexible transportation, which may serve as ``reliability insurance'' in case other modes of transit fail. Leveraging the roll-out of Uber, I use a stacked difference-in-differences approach to show that the availability of reliable and flexible transportation leads to improvements in social and economic participation through increased marriage rates and labor force participation, and reduced reliance on public assistance. The reduction in public assistance outweighs expected rideshare costs, lending support to the recent push towards public-private partnerships in the transportation space. 
 </details>
 
-<br />
 
 "Going the Distance: The Contemporaneous and Intergenerational Effects of Accessible Transportation"
 <details>
@@ -54,7 +53,13 @@ Light-touch text message interventions continue to grow popular among researcher
   <summary>Abstract</summary>
 About a quarter of Americans with disabilities experience poverty. One contributing factor is a lack of physical mobility, which may limit access to health care, social relationships, and economic participation. Although the Americans with Disabilities Act requires public transit agencies to provide riders unable to use fixed-route transit with paratransit alternatives, paratransit users are generally required to book trips a day in advance, constraining flexibility. In this study, we will conduct a randomized controlled trial of King County Metro’s new Access On-Demand program, which allows paratransit users to book same-day trips. This is the first study to evaluate the effects of an on-demand transportation option on paratransit customers’ mobility, transportation security, health, and wellbeing. The research design, which will leverage administrative data complemented by surveys, is the product of a long collaboration between the research team and King County Metro and is informed by an non-experimental pilot.
 </details>
-"Remote Work and Employment at the Margins: Evidence from Older and Disabled Adults in the UK" with Ian Burn and Joanna Lahey
+
+"Here, There, and Everywhere: Remote Work’s Impact on Employment in the UK" with Ian Burn and Joanna Lahey
+<details>
+  <summary>Abstract</summary>
+Remote work is often touted as a way for disabled and older workers to remain in the labour market. Post-Covid, the incidence of remote work has increased in the UK. Following Bloom et al.
+(2026), we test the effects of remote work on employment for these two groups using the pandemic’s increase in work from home rates as a quasi-experiment. We compare occupations with high growth in work from home (WFH) to those with lower growth in work from home, with growth rates measured among the non-disabled or younger. We then instrument using pre-pandemic remote work scores from Dingle and Neiman (2020). We find significant evidence that rising WFH increases employment of disabled and older workers in the UK. We additionally find decreases in commute time and wages for both groups, but no effect on hours worked.
+</details>
 
 <br />
 
