@@ -42,23 +42,25 @@ Transportation is a well-established barrier to employment for individuals with 
 </details>
 
 
+["Here, There, and Everywhere: Remote Work’s Impact on Employment in the UK"](https://www.nber.org/papers/w35791?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg18) with Ian Burn and Joanna Lahey
+<details>
+  <summary>Abstract</summary>
+Remote work is often touted as a way for disabled and older workers to remain in the labour market. Post-Covid, the incidence of remote work has increased in the UK. Following Bloom et al.
+(2026), we test the effects of remote work on employment for these two groups using the pandemic’s increase in work from home rates as a quasi-experiment. We compare occupations with high growth in work from home (WFH) to those with lower growth in work from home, with growth rates measured among the non-disabled or younger. We then instrument using pre-pandemic remote work scores from Dingle and Neiman (2020). We find significant evidence that rising WFH increases employment of disabled and older workers in the UK. We additionally find decreases in commute time and wages for both groups, but no effect on hours worked.
+</details>
+
+
 "Beyond the Text: Understanding Opt-Out, Dosage, and Response Disparities in an SMS Intervention" with Miranda Lambert, Kalena Cortes, and Brian Holzman.
 <details>
   <summary>Abstract</summary>
 Light-touch text message interventions continue to grow popular among researchers. However, little is known about how the content of these text messages may drive parental engagement with an intervention’s curriculum or how parents of various backgrounds may engage differentially with the content. Utilizing a large-scale SMS-based nudge intervention among middle school parents, we examine heterogeneity in the likelihood of parents opting out, their survey response rates, and the curriculum characteristics that influence opt-out behavior. We find that parents in the treatment group are more likely to opt out. However non-White parents, parents receiving Spanish language messages, and parents whose children receive free and reduced-price lunch are less likely to opt out overall. Our analysis of text curriculum features reveals that parents are more likely to opt out after receiving texts focused on emotional support, responsible decision-making, and warmth. Importantly, Spanish language text-recipients often exhibit curriculum characteristic preferences that differ from the rest of the sample. This paper highlights the importance of parent characteristics when designing and implementing text message interventions.
 </details>
 
+
 "No Time Like the Present: The Effects of On-Demand Trips for Paratransit Customers on Rider Mobility, Well-being, and Health" with Michael Cassidy and Ludovica Gazze *(funded by [JPAL](https://www.povertyactionlab.org/initiative-project/no-time-present-effects-demand-trips-paratransit-customers-rider-mobility))*
 <details>
   <summary>Abstract</summary>
 About a quarter of Americans with disabilities experience poverty. One contributing factor is a lack of physical mobility, which may limit access to health care, social relationships, and economic participation. Although the Americans with Disabilities Act requires public transit agencies to provide riders unable to use fixed-route transit with paratransit alternatives, paratransit users are generally required to book trips a day in advance, constraining flexibility. In this study, we will conduct a randomized controlled trial of King County Metro’s new Access On-Demand program, which allows paratransit users to book same-day trips. This is the first study to evaluate the effects of an on-demand transportation option on paratransit customers’ mobility, transportation security, health, and wellbeing. The research design, which will leverage administrative data complemented by surveys, is the product of a long collaboration between the research team and King County Metro and is informed by an non-experimental pilot.
-</details>
-
-"Here, There, and Everywhere: Remote Work’s Impact on Employment in the UK" with Ian Burn and Joanna Lahey
-<details>
-  <summary>Abstract</summary>
-Remote work is often touted as a way for disabled and older workers to remain in the labour market. Post-Covid, the incidence of remote work has increased in the UK. Following Bloom et al.
-(2026), we test the effects of remote work on employment for these two groups using the pandemic’s increase in work from home rates as a quasi-experiment. We compare occupations with high growth in work from home (WFH) to those with lower growth in work from home, with growth rates measured among the non-disabled or younger. We then instrument using pre-pandemic remote work scores from Dingle and Neiman (2020). We find significant evidence that rising WFH increases employment of disabled and older workers in the UK. We additionally find decreases in commute time and wages for both groups, but no effect on hours worked.
 </details>
 
 <br />
